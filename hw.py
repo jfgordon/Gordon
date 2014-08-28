@@ -1,2 +1,2 @@
-print ("Hello AIMS")
+print ("Hello AIMS-Ghana")
 
