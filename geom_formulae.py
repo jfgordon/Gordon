@@ -1,4 +1,4 @@
-__author__ = 'joseph G'
+__author__ = 'joseph '
 from numbers import Number
 from math import *
 
